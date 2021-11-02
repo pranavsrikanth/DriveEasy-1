@@ -46,31 +46,31 @@ Please find the Video link for the demonstration of our app in [Video Demo](Vide
 <p float = "left">
 
 <!-- ### Main Page: -->
-<img src = "https://user-images.githubusercontent.com/77959565/119697462-d5a4eb80-be6d-11eb-8220-64762d06d794.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119697462-d5a4eb80-be6d-11eb-8220-64762d06d794.jpeg" width="250" hspace="8"/>
 <!-- ![Main page](https://user-images.githubusercontent.com/77959565/119697462-d5a4eb80-be6d-11eb-8220-64762d06d794.jpeg ) -->
 
 <!-- ### Sign In -->
-<img src = "https://user-images.githubusercontent.com/77959565/119697994-6b407b00-be6e-11eb-843b-4dfd60c49797.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119697994-6b407b00-be6e-11eb-843b-4dfd60c49797.jpeg" width="250" hspace="8"/>
 <!-- ![SignUp](https://user-images.githubusercontent.com/77959565/119697994-6b407b00-be6e-11eb-843b-4dfd60c49797.jpeg)
  -->
 
 <!-- ### OTP Verification -->
 
-<img src = "https://user-images.githubusercontent.com/77959565/119698663-15200780-be6f-11eb-9c53-fc9b3c90019c.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119698663-15200780-be6f-11eb-9c53-fc9b3c90019c.jpeg" width="250" hspace="8"/>
 <!-- ![OTPVerification](https://user-images.githubusercontent.com/77959565/119698663-15200780-be6f-11eb-9c53-fc9b3c90019c.jpeg) -->
   </p>
   
 <p float = "left">
 <!-- ### Dashboard -->
-<img src = "https://user-images.githubusercontent.com/77959565/119698848-47316980-be6f-11eb-94c9-c233c35f7915.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119698848-47316980-be6f-11eb-94c9-c233c35f7915.jpeg" width="250" hspace="8"/>
 <!-- ![Dashboard](https://user-images.githubusercontent.com/77959565/119698848-47316980-be6f-11eb-94c9-c233c35f7915.jpeg) -->
 
 <!-- ### Navigation -->
-<img src = "https://user-images.githubusercontent.com/77959565/119699117-73e58100-be6f-11eb-8a96-8e4f1a2bb307.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119699117-73e58100-be6f-11eb-8a96-8e4f1a2bb307.jpeg" width="250" hspace="8"/>
 <!-- ![Navigation](https://user-images.githubusercontent.com/77959565/119699117-73e58100-be6f-11eb-8a96-8e4f1a2bb307.jpeg) -->
 
 <!-- ### Cars -->
-<img src = "https://user-images.githubusercontent.com/77959565/119699231-8e1f5f00-be6f-11eb-8d98-d5fd21bffebb.jpeg" width="250" hspace="10"/>
+<img src = "https://user-images.githubusercontent.com/77959565/119699231-8e1f5f00-be6f-11eb-8d98-d5fd21bffebb.jpeg" width="250" hspace="8"/>
 <!-- ![Carss](https://user-images.githubusercontent.com/77959565/119699231-8e1f5f00-be6f-11eb-8d98-d5fd21bffebb.jpeg)-->
   </p>
 <p float = "left">
